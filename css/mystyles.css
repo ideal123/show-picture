@@ -1,0 +1,33 @@
+body {
+	margin: 0 100px;
+}
+#mmmmy {
+	position: fixed;
+	top: 40px;
+	left: 50%;
+	z-index: 9999;
+	width: 500px;
+	margin-left: -250px;
+	text-align: center;
+	font-size: 25px;
+}
+.show-img-area {
+	position: relative;
+	top: 0;
+	background: white;
+	z-index: 999;
+}
+.show-img {
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+}
+.show-img div {
+	height: 20px;
+	line-height: 20px;
+	font-size: 20px;
+}
+.show-img img {
+	height: 80px;
+	max-width: 100%;
+}
