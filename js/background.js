@@ -1,1 +1,1 @@
-console.log('background call');
+console.log('background call');//nothing
